@@ -13,6 +13,7 @@ _get_level() {
     local level="${1}"
     echo "${LOG_LEVELS[${level}]}"
 }
+# leaving a note for later
 
 # Core logging function.
 _log() {
