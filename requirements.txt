@@ -1,0 +1,9 @@
+# Bash utilities used by the project (all are typically pre‑installed on Linux/macOS)
+bash>=5.0
+coreutils
+grep
+sed
+awk
+date
+cat
+pandoc   # optional – for pretty rendering of markdown
