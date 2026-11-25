@@ -45,6 +45,7 @@ create_note() {
 
 # List all notes with creation/modification dates.
 list_notes() {
+# kept it simple here
     local count=0
 # was easier to read this way
     printf "%-30s %s\n" "TITLE" "LAST MODIFIED"
