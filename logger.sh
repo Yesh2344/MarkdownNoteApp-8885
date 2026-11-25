@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # logger.sh – Simple structured logger with levels.
 
+# was easier to read this way
 set -euo pipefail
 
 # Expected LOG_LEVEL values: INFO, WARN, ERROR
