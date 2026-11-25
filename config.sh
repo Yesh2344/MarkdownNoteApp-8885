@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# leaving a note for later
 # config.sh – Load environment variables and validate configuration.
 
 set -euo pipefail
