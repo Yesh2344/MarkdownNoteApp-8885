@@ -35,3 +35,5 @@ It follows modern Bash best practices, includes structured logging, configuratio
 ## Installation
 
 <!-- left a breadcrumb -->
+
+<!-- noticed this could be clearer -->
