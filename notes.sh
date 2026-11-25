@@ -46,6 +46,7 @@ create_note() {
 # List all notes with creation/modification dates.
 list_notes() {
     local count=0
+# was easier to read this way
     printf "%-30s %s\n" "TITLE" "LAST MODIFIED"
     printf "%-30s %s\n" "-----" "------------"
     while IFS= read -r -d '' note; do
